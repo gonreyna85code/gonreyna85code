@@ -2,7 +2,7 @@
 <hr> </hr>
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0N_A1OV76sibnp054fm1Uw66SrvGlv8b3Ow&usqp=CAU"
-       style="max-width: 100%;"></img>
+       width="100%"></img>
 </p>
 <hr> </hr>
 <h3>
