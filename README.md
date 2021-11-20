@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Gonzalo Reyna!
-
+<hr> </hr>
+<p>
+  I'm a FullStack Web Developer. I live in Argentina and I'm currently looking for a job oportunity in the IT world! 
+</p>
 <hr> </hr>
 <!--
 **gonreyna85code/gonreyna85code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
