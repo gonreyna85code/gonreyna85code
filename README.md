@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Gonzalo Reyna!
+<h1 align="center">Hi there 👋 I'm Gonzalo Reyna!</h1>
 <hr> </hr>
 <p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0N_A1OV76sibnp054fm1Uw66SrvGlv8b3Ow&usqp=CAU"
+  <img src="https://thumbs.dreamstime.com/t/vector-banner-design-circuit-board-illustration-abstract-modern-futuristic-engineering-technology-background-139044319.jpg"
        width="100%"></img>
 </p>
 <hr> </hr>
